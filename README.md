@@ -4,7 +4,7 @@
   <h3><b>Hello Rails React</b></h3>
 </div>
 
-## Link to FrontEnd : https://github.com/Said-laasri/react-front-end/pull/1
+## Link to BackEnd : https://github.com/Said-laasri/rails_back_end/tree/setup
 
 
 # 📗 Table of Contents
