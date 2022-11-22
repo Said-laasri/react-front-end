@@ -8,7 +8,6 @@ const initialState = {
   greeting: '',
 };
 
-
 const greetingsReducer = (state = initialState, action) => {
   switch (action.type) {
     case `${FETCH}/fulfilled`:
